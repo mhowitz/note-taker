@@ -1,12 +1,5 @@
 const router = require('express').Router();
 const path = require('path');
-//const fs = require('fs';)
-//const htmlRoutes = require('../htmlRoutes')
-
-// router.use('/', (req, res) => {
-//     console.log('index use')
-// });
-
 
 
 router.get('/', (req, res) => {
