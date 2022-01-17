@@ -30,7 +30,7 @@ When the user opens up the link http://localhost:3001 it will bring them to a no
 
 Here is a screenshot of what the Note taker application looks like in the browser: 
 
-
+![screenshot-note-taker](images/notetaker.jpg)
 
 
 
