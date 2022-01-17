@@ -4,8 +4,13 @@
         "text": "Test text"
     },
     {
-        "title": "Hello",
-        "text": "hello \n\\",
-        "id": "d5b3c520-0f2b-4b77-8f8d-19ab1d73ba72"
+        "title": "New Note",
+        "text": "Here is my first note\n",
+        "id": "f98f72d7-dbb8-45c4-a5ec-2a98ad399be3"
+    },
+    {
+        "title": "Grocery List",
+        "text": "Tomatoes\nApples\nBananas",
+        "id": "6dc3bb6e-b539-43db-8463-e11d4ba77963"
     }
 ]
